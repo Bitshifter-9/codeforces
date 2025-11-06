@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"/Users/pranavkumar.bandaram/Desktop/rough/h.py","tests":[{"id":1762312984546,"input":"2\n5 1\n4 1 6 10 2\n3 2\n1 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/pranavkumar.bandaram/Desktop/rough/h.py","group":"local","local":true}
