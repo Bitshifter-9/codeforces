@@ -1,0 +1,24 @@
+{
+  ".py": {
+    "runCommand": [
+      "python",
+      "${file}"
+    ],
+    "debugCommand": [
+      "python",
+      "-m",
+      "pdb",
+      "${file}"
+    ]
+  },
+  ".json": {
+    "runCommand": [
+      "cat",
+      "${file}"
+    ],
+    "debugCommand": [
+      "cat",
+      "${file}"
+    ]
+  }
+}
